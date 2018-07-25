@@ -1,0 +1,125 @@
+<resources>
+    <!-- MainActivity for the application [CHAR LIMIT=12] -->
+    <string name="title_activity_main">MainActivity</string>
+
+    <!-- Name for the application [CHAR LIMIT=12] -->
+    <string name="app_name">Inventory App, Stage 2</string>
+
+    <!-- Label for overflow menu option that inserts fake inventory data into the app [CHAR LIMIT=20] -->
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+
+    <!-- Label for overflow menu option that deletes all inventory data in the app [CHAR LIMIT=20] -->
+    <string name="action_delete_all_entries">Delete All Inventories</string>
+
+    <!-- Title text for the empty view [CHAR LIMIT=50] -->
+    <string name="empty_view_title_text">It\'s a bit empty here...</string>
+
+    <!-- Subtitle text for the empty view that prompts the user to add a inventory [CHAR LIMIT=50] -->
+    <string name="empty_view_subtitle_text">Get started by adding a inventory</string>
+
+    <!-- Title for the activity to add a new inventory [CHAR LIMIT=20] -->
+    <string name="editor_activity_title_new_inventory">Add a Inventory</string>
+
+    <!-- Title for the activity to edit a new inventory [CHAR LIMIT=20] -->
+    <string name="editor_activity_title_edit_inventory">Edit a Inventory</string>
+
+    <!-- Toast message in editor when current pet was successfully updated [CHAR LIMIT=NONE] -->
+    <string name="editor_update_inventory_successful">Inventory updated</string>
+
+    <!-- Toast message in editor when current pet has failed to be updated [CHAR LIMIT=NONE] -->
+    <string name="editor_update_inventory_failed">Error with updating inventory</string>
+
+    <!-- Label for editor menu option to save inventory and leave editor [CHAR LIMIT=20] -->
+    <string name="action_save">Save</string>
+
+    <!-- Label for editor overflow menu option that deletes the current inventory [CHAR LIMIT=20] -->
+    <string name="action_delete">Delete</string>
+
+    <!-- Label for product name category of attributes in the editor [CHAR LIMIT=30] -->
+    <string name="category_product">Product name</string>
+
+    <!-- Text hint for product name field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_product_name">Name</string>
+
+    <!-- Label for product price category of attributes in the editor [CHAR LIMIT=30] -->
+    <string name="category_price">Price</string>
+
+    <!-- Text hint for product price field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_product_price">Price</string>
+
+    <!-- Units for price of the product (zloty) [CHAR LIMIT=5] -->
+    <string name="unit_product_price">zł.</string>
+
+    <!-- Label for product quantity category of attributes in the editor [CHAR LIMIT=30] -->
+    <string name="category_quantity">Quantity</string>
+
+    <!-- Text hint for product quantity field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_product_quantity">Quantity</string>
+
+    <!-- Units for quantity of the product (zloty) [CHAR LIMIT=5] -->
+    <string name="unit_product_quantity">szt.</string>
+
+    <!-- Label for supplier name category of attributes in the editor [CHAR LIMIT=30] -->
+    <string name="category_supplier_name">Supplier name</string>
+
+    <!-- Text hint for supplier name field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_supplier_name">Name</string>
+
+    <!-- Label for supplier phone number category of attributes in the editor [CHAR LIMIT=30] -->
+    <string name="category_supplier_phone_number">Phone number</string>
+
+    <!-- Text hint for supplier phone number field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_supplier_phone_number">Phone number</string>
+
+    <!-- Toast message in editor when new inventory has been successfully inserted [CHAR LIMIT=NONE] -->
+    <string name="editor_insert_inventory_successful">Inventory saved</string>
+
+    <!-- Toast message in editor when new inventory has failed to be inserted [CHAR LIMIT=NONE] -->
+    <string name="editor_insert_inventory_failed">Error with saving inventory</string>
+
+    <!-- Toast message in editor when new inventory has failed to be inserted [CHAR LIMIT=NONE] -->
+    <string name="filled_all_fields_inventory_failed">All fields have to be filled</string>
+
+    <!-- Toast message in editor when new name of inventory has failed to be inserted [CHAR LIMIT=NONE] -->
+    <string name="unknown_inventoryProductName">Product name unknown</string>
+
+    <!-- Toast message in editor when new price of inventory has failed to be inserted [CHAR LIMIT=NONE] -->
+    <string name="unknown_inventoryProductPrice">Price unknown</string>
+
+    <!-- Toast message in editor when new quantity of inventory has failed to be inserted [CHAR LIMIT=NONE] -->
+    <string name="unknown_inventoryProductQuantity">Quantity unknown</string>
+
+    <!-- Toast message in editor when new quantity of inventory has failed to be inserted [CHAR LIMIT=NONE] -->
+    <string name="unknown_supplierPhoneNumber">Supplier phone number unknown</string>
+
+    <!-- Toast message the changes unsaved [CHAR LIMIT=NONE] -->
+    <string name="unsaved_changes_dialog_msg">unsaved_changes_dialog_msg</string>
+
+    <!-- Toast message discard [CHAR LIMIT=NONE] -->
+    <string name="discard">discard</string>
+
+    <!-- Toast message keep editing [CHAR LIMIT=NONE] -->
+    <string name="keep_editing">keep_editing</string>
+
+    <!-- Toast message delete dialog [CHAR LIMIT=NONE] -->
+    <string name="delete_dialog_msg">delete_dialog_msg</string>
+
+    <!-- Toast message delete [CHAR LIMIT=NONE] -->
+    <string name="delete">delete</string>
+
+    <!-- Toast message cancel [CHAR LIMIT=NONE] -->
+    <string name="cancel">cancel</string>
+
+    <!-- Toast message delete inventory failed [CHAR LIMIT=NONE] -->
+    <string name="editor_delete_inventory_failed">editor_delete_inventory_failed</string>
+
+    <!-- Toast message delete inventory successful [CHAR LIMIT=NONE] -->
+    <string name="editor_delete_inventory_successful">editor_delete_inventory_successful</string>
+
+    <!-- Toast message decrement quantity -1 failed [CHAR LIMIT=NONE] -->
+    <string name="decrement">decrement</string>
+
+    <!-- Toast message increment quantity +1 failed [CHAR LIMIT=NONE] -->
+    <string name="increment">increment</string>
+
+</resources>

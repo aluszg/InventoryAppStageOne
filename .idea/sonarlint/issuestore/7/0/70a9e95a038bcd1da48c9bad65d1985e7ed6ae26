@@ -1,0 +1,7 @@
+
+lsquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ƒ³»ƒúÿÿÿÿ8¡§­ÈÌ,
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°Ÿ°šüÿÿÿÿ8¡§­ÈÌ,
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(²á‡8¡§­ÈÌ,
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ôãƒÿÿÿÿÿ8¡§­ÈÌ,
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ôãƒÿÿÿÿÿ8¡§­ÈÌ,
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°Ÿ°šüÿÿÿÿ8¡§­ÈÌ,

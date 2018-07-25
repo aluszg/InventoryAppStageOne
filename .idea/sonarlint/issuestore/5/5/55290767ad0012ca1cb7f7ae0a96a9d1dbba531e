@@ -1,0 +1,4 @@
+
+osquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(Ùùƒµ8‚ù§ÇÌ,
+wsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ùùƒµ8‚ù§ÇÌ,
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(ô…ïª8‚ù§ÇÌ,
